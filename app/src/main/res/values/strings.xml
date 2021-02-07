@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Belajar Recycler View (Using Network Image)</string>
+
+    <string-array name="kara_name">
+        <item>Delta (I)</item>
+        <item>Kashin Koji (II)</item>
+        <item>Boro (III)</item>
+        <item>Jigen (IV)</item>
+        <item>Kawaki (IX)</item>
+        <item>Amado</item>
+        <item>Isshiki Otsutsuki</item>
+    </string-array>
+
+    <string-array name="kara_det">
+        <item>Delta (デルタ, Deruta) is an Inner from the organisation Kara.</item>
+        <item>Koji Kashin (果心居士, Kashin Koji) is a clone of Jiraiya that was created by Amado for the purpose of killing Isshiki Ōtsutsuki. As a former Inner of Kara, he was in charge of the sector on the outskirts of the Land of Fire.</item>
+        <item>Boro (ボロ, Boro) was an Inner from the organisation Kara.</item>
+        <item>Jigen (ジゲン, Jigen) was a novice monk that became the vessel for Isshiki Ōtsutsuki, and eventually had his body completely taken over by Isshiki invading it.</item>
+        <item>Kawaki (カワキ, Kawaki) is a child raised by Kara to be the future vessel for Isshiki Ōtsutsuki and the key to the fulfilment of their greatest wish. After being brought to Konohagakure by Team 7, he is taken in by Naruto Uzumaki who raises him as his own, during which he develops a brotherly bond with Boruto Uzumaki to solve the mystery of Kāma.</item>
+        <item>Amado (アマド, Amado) is a former Inner from the organisation Kara and the head of its research and development division. He has since defected to Konohagakure, where he used a mix of bluffs and gifts to gain official citizenship for the Hokage\'s protection.</item>
+        <item>Isshiki Ōtsutsuki (大筒木イッシキ, Ōtsutsuki Isshiki) was a member of the Ōtsutsuki clan\'s main family and the leader of Kara.</item>
+    </string-array>
+
+    <string-array name="kara_url">
+        <item>https://static.wikia.nocookie.net/naruto/images/0/09/Delta_infobox.png/revision/latest/scale-to-width-down/300?cb=20201222171431</item>
+        <item>https://static.wikia.nocookie.net/naruto/images/0/02/Koji_Kashin.png/revision/latest/scale-to-width-down/300?cb=20210110143558</item>
+        <item>https://static.wikia.nocookie.net/naruto/images/6/63/Boro.png/revision/latest/scale-to-width-down/300?cb=20210110142734</item>
+        <item>https://static.wikia.nocookie.net/naruto/images/6/67/Jigen.png/revision/latest/scale-to-width-down/300?cb=20210111023128</item>
+        <item>https://static.wikia.nocookie.net/naruto/images/2/20/Kawaki.png/revision/latest/scale-to-width-down/300?cb=20180601230312</item>
+        <item>https://static.wikia.nocookie.net/naruto/images/7/74/Amado.png/revision/latest/scale-to-width-down/300?cb=20210111022326</item>
+        <item>https://static.wikia.nocookie.net/naruto/images/2/21/Isshiki.png/revision/latest?cb=20200827080902</item>
+    </string-array>
+</resources>
